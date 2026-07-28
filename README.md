@@ -55,10 +55,9 @@ This project demonstrates the process of designing a custom logo using Onshape. 
 </p>
 
 ---
-## 🔗 Onshape Project
+## 🔗 Onshape Design
 
-👉 [Open the Onshape Model](https://cad.onshape.com/documents/563be29ef4616356c57d32e2/w/27e66b41a311714b13b825dc/e/882c54055d21bbcf1ca41384)
-
+[Click here to open the editable Onshape model](https://cad.onshape.com/documents/563be29ef4616356c57d32e2/w/27e66b41a311714b13b825dc/e/882c54055d21bbcf1ca41384)
 ---
 
 ## 📂 Repository Structure
